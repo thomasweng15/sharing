@@ -1,0 +1,24 @@
+{
+  "name": "sharing",
+  "version": "0.0.1",
+  "description": "share things with friends.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasweng15/sharing.git"
+  },
+  "author": "Thomas Weng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasweng15/sharing/issues"
+  },
+  "homepage": "https://github.com/thomasweng15/sharing#readme",
+  "private": true
+}
